@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yernat</h1>
 <h3 align="center">A frontend developer from Kazakhstan</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yernat-19" alt="yernat-19" /></a> </p>
-- 🔭 I’m currently working on **Trustme**
+- 🔭 I’m currently working on <b>Iserv</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
